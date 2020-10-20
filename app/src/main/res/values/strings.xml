@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TrabajarConTabs</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="vectorOpciones">
+
+        <item> ¿Qué es Android?</item>
+        <item>¿Qué es android Studio?</item>
+        <item>Interfaz de usuario de Android</item>
+
+    </string-array>
+</resources>
